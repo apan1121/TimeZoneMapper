@@ -1,0 +1,397 @@
+Time zone : Asia/Taipei
+Time zone : Asia/Tokyo
+Time zone : America/Bahia
+Time zone : America/Martinique -- verdict : FAIL ("America/Dominica")
+Time zone : America/Los_Angeles -- verdict : FAIL ("America/St_Vincent")
+Time zone : Pacific/Auckland -- verdict : FAIL ("Australia/Lord_Howe")
+Time zone : Asia/Kashgar -- verdict : PASS
+Time zone : Australia/Sydney -- verdict : FAIL ("Pacific/Wallis")
+Time zone : Europe/Berlin -- verdict : PASS
+Time zone : America/Manaus -- verdict : PASS
+Time zone : Asia/Hebron -- verdict : FAIL ("Asia/Jerusalem")
+Time zone : America/Phoenix -- verdict : PASS
+Time zone : Australia/Darwin -- verdict : PASS
+Time zone : Asia/Seoul -- verdict : PASS
+Time zone : Africa/Gaborone -- verdict : PASS
+Time zone : unknown -- verdict : FAIL ("Indian/Chagos")
+Time zone : America/Argentina/Mendoza -- verdict : PASS
+Time zone : Asia/Shanghai -- verdict : FAIL ("Asia/Hong_Kong")
+Time zone : America/Godthab -- verdict : PASS
+Time zone : Africa/Dar_es_Salaam -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Port-au-Prince")
+Time zone : America/Chicago -- verdict : FAIL ("America/Montreal")
+Time zone : Atlantic/Reykjavik -- verdict : PASS
+Time zone : America/Panama -- verdict : PASS
+Time zone : America/Sitka -- verdict : PASS
+Time zone : Asia/Ho_Chi_Minh -- verdict : PASS
+Time zone : Asia/Jakarta -- verdict : PASS
+Time zone : America/Boise -- verdict : PASS
+Time zone : Asia/Baghdad -- verdict : PASS
+Time zone : Africa/El_Aaiun -- verdict : PASS
+Time zone : Europe/Zagreb -- verdict : PASS
+Time zone : America/Santiago -- verdict : PASS
+Time zone : America/Caracas -- verdict : FAIL ("America/Merida")
+Time zone : Africa/Nouakchott -- verdict : PASS
+Time zone : America/Mexico_City -- verdict : FAIL ("America/Bahia_Banderas")
+Time zone : Australia/Perth -- verdict : PASS
+Time zone : Asia/Sakhalin -- verdict : PASS
+Time zone : Asia/Vladivostok -- verdict : PASS
+Time zone : Africa/Bissau -- verdict : PASS
+Time zone : America/Los_Angeles -- verdict : PASS
+Time zone : Asia/Rangoon -- verdict : PASS
+Time zone : America/Sao_Paulo -- verdict : FAIL ("America/Belize")
+Time zone : Asia/Harbin -- verdict : PASS
+Time zone : Australia/Currie -- verdict : PASS
+Time zone : Pacific/Apia -- verdict : FAIL ("Pacific/Pago_Pago")
+Time zone : America/Los_Angeles -- verdict : FAIL ("America/Vancouver")
+Time zone : Asia/Magadan -- verdict : PASS
+Time zone : Asia/Tbilisi -- verdict : PASS
+Time zone : Asia/Yerevan -- verdict : PASS
+Time zone : Europe/Tallinn -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("Pacific/Johnston")
+Time zone : Asia/Baku -- verdict : PASS
+Time zone : America/Denver -- verdict : FAIL ("America/North_Dakota/New_Salem")
+Time zone : Europe/Vilnius -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Indiana/Petersburg")
+Time zone : Asia/Tehran -- verdict : PASS
+Time zone : America/Yellowknife -- verdict : FAIL ("America/Inuvik")
+Time zone : Europe/Lisbon -- verdict : PASS
+Time zone : Europe/Rome -- verdict : FAIL ("Europe/Vatican")
+Time zone : America/Los_Angeles -- verdict : FAIL ("Pacific/Chatham")
+Time zone : America/Araguaina -- verdict : PASS
+Time zone : Asia/Thimphu -- verdict : PASS
+Time zone : Atlantic/Madeira -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Coral_Harbour")
+Time zone : unknown -- verdict : FAIL ("Pacific/Funafuti")
+Time zone : Asia/Kolkata -- verdict : FAIL ("Indian/Mahe")
+Time zone : Australia/Adelaide -- verdict : PASS
+Time zone : Africa/Freetown -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("Atlantic/South_Georgia")
+Time zone : Africa/Accra -- verdict : PASS
+Time zone : America/North_Dakota/Beulah -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("America/Jamaica")
+Time zone : America/Regina -- verdict : FAIL ("America/Swift_Current")
+Time zone : Europe/Tirane -- verdict : PASS
+Time zone : Asia/Tehran -- verdict : FAIL ("Asia/Ashgabat")
+Time zone : America/Moncton -- verdict : PASS
+Time zone : Europe/Zurich -- verdict : FAIL ("Europe/Vaduz")
+Time zone : Australia/Eucla -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Montserrat")
+Time zone : America/New_York -- verdict : FAIL ("America/Glace_Bay")
+Time zone : America/New_York -- verdict : FAIL ("Atlantic/Stanley")
+Time zone : Africa/Lubumbashi -- verdict : FAIL ("Africa/Bujumbura")
+Time zone : Africa/Porto-Novo -- verdict : PASS
+Time zone : America/Argentina/Rio_Gallegos -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Grenada")
+Time zone : Asia/Omsk -- verdict : FAIL ("Asia/Novokuznetsk")
+Time zone : America/Argentina/Catamarca -- verdict : PASS
+Time zone : America/Indiana/Indianapolis -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Indiana/Tell_City")
+Time zone : America/Caracas -- verdict : FAIL ("America/Curacao")
+Time zone : America/Argentina/Cordoba -- verdict : FAIL ("America/Miquelon")
+Time zone : America/Detroit -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Menominee")
+Time zone : Asia/Novosibirsk -- verdict : PASS
+Time zone : Africa/Lagos -- verdict : PASS
+Time zone : America/Los_Angeles -- verdict : FAIL ("Indian/Cocos")
+Time zone : America/Yakutat -- verdict : PASS
+Time zone : Europe/Volgograd -- verdict : PASS
+Time zone : Asia/Qatar -- verdict : PASS
+Time zone : Indian/Antananarivo -- verdict : PASS
+Time zone : unknown -- verdict : FAIL ("Pacific/Marquesas")
+Time zone : America/Denver -- verdict : FAIL ("America/Grand_Turk")
+Time zone : Asia/Yakutsk -- verdict : FAIL ("Asia/Khandyga")
+Time zone : America/North_Dakota/Center -- verdict : PASS
+Time zone : unknown -- verdict : FAIL ("Pacific/Guam")
+Time zone : Australia/Brisbane -- verdict : FAIL ("Pacific/Pitcairn")
+Time zone : America/New_York -- verdict : FAIL ("America/Cambridge_Bay")
+Time zone : Asia/Bahrain -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Kentucky/Monticello")
+Time zone : Arctic/Longyearbyen -- verdict : PASS
+Time zone : Africa/Cairo -- verdict : PASS
+Time zone : Australia/Hobart -- verdict : PASS
+Time zone : Australia/Brisbane -- verdict : FAIL ("Pacific/Galapagos")
+Time zone : Asia/Oral -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("America/Dawson_Creek")
+Time zone : Africa/Mbabane -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("America/Halifax")
+Time zone : Pacific/Apia -- verdict : FAIL ("Pacific/Tongatapu")
+Time zone : Asia/Aqtau -- verdict : PASS
+Time zone : Asia/Hovd -- verdict : PASS
+Time zone : Africa/Nairobi -- verdict : PASS
+Time zone : Asia/Ulaanbaatar -- verdict : PASS
+Time zone : America/Moncton -- verdict : FAIL ("Indian/Christmas")
+Time zone : Asia/Taipei -- verdict : PASS
+Time zone : Australia/Melbourne -- verdict : PASS
+Time zone : America/Argentina/Salta -- verdict : PASS
+Time zone : Australia/Broken_Hill -- verdict : PASS
+Time zone : America/Argentina/Tucuman -- verdict : PASS
+Time zone : America/Kentucky/Louisville -- verdict : PASS
+Time zone : Asia/Jakarta -- verdict : FAIL ("Asia/Jayapura")
+Time zone : Asia/Shanghai -- verdict : FAIL ("Asia/Macau")
+Time zone : America/Ojinaga -- verdict : PASS
+Time zone : America/Nome -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("Pacific/Wake")
+Time zone : Europe/Andorra -- verdict : PASS
+Time zone : America/Iqaluit -- verdict : PASS
+Time zone : America/Caracas -- verdict : FAIL ("America/Kralendijk")
+Time zone : Europe/Paris -- verdict : FAIL ("Europe/Jersey")
+Time zone : Asia/Ust-Nera -- verdict : PASS
+Time zone : Asia/Yakutsk -- verdict : PASS
+Time zone : America/Anchorage -- verdict : FAIL ("America/Yellowknife")
+Time zone : America/Fortaleza -- verdict : PASS
+Time zone : Asia/Irkutsk -- verdict : PASS
+Time zone : America/Tegucigalpa -- verdict : PASS
+Time zone : Europe/Zaporozhye -- verdict : PASS
+Time zone : Pacific/Fiji -- verdict : PASS
+Time zone : America/Tijuana -- verdict : FAIL ("Pacific/Tarawa")
+Time zone : Africa/Asmara -- verdict : PASS
+Time zone : Asia/Dhaka -- verdict : PASS
+Time zone : Asia/Pyongyang -- verdict : PASS
+Time zone : Europe/Athens -- verdict : PASS
+Time zone : America/Anchorage -- verdict : FAIL ("America/Resolute")
+Time zone : Africa/Brazzaville -- verdict : PASS
+Time zone : Africa/Libreville -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("Atlantic/St_Helena")
+Time zone : Europe/Samara -- verdict : PASS
+Time zone : unknown -- verdict : FAIL ("America/Adak")
+Time zone : America/Argentina/Salta -- verdict : FAIL ("America/Argentina/Jujuy")
+Time zone : America/Chicago -- verdict : PASS
+Time zone : Africa/Lagos -- verdict : FAIL ("Africa/Sao_Tome")
+Time zone : Europe/Vienna -- verdict : FAIL ("Europe/Bratislava")
+Time zone : Asia/Riyadh -- verdict : PASS
+Time zone : America/Lima -- verdict : PASS
+Time zone : America/New_York -- verdict : PASS
+Time zone : Asia/Samarkand -- verdict : PASS
+Time zone : America/Caracas -- verdict : FAIL ("America/Port_of_Spain")
+Time zone : Africa/Johannesburg -- verdict : PASS
+Time zone : Pacific/Port_Moresby -- verdict : PASS
+Time zone : America/Bahia -- verdict : PASS
+Time zone : Europe/Zurich -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("America/St_Barthelemy")
+Time zone : Asia/Nicosia -- verdict : PASS
+Time zone : Europe/Kaliningrad -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Anguilla")
+Time zone : Europe/Ljubljana -- verdict : PASS
+Time zone : Asia/Yekaterinburg -- verdict : PASS
+Time zone : Africa/Kampala -- verdict : PASS
+Time zone : America/Rio_Branco -- verdict : PASS
+Time zone : Africa/Bamako -- verdict : PASS
+Time zone : America/Anchorage -- verdict : FAIL ("America/Goose_Bay")
+Time zone : Europe/Moscow -- verdict : PASS
+Time zone : Africa/Conakry -- verdict : PASS
+Time zone : America/Chihuahua -- verdict : PASS
+Time zone : Europe/Warsaw -- verdict : PASS
+Time zone : Asia/Jayapura -- verdict : FAIL ("Pacific/Palau")
+Time zone : unknown -- verdict : FAIL ("Europe/Mariehamn")
+Time zone : Africa/Windhoek -- verdict : PASS
+Time zone : America/La_Paz -- verdict : PASS
+Time zone : America/Recife -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Mexico_City")
+Time zone : Asia/Amman -- verdict : PASS
+Time zone : America/Tijuana -- verdict : PASS
+Time zone : America/Sitka -- verdict : FAIL ("America/Metlakatla")
+Time zone : America/Los_Angeles -- verdict : FAIL ("Pacific/Midway")
+Time zone : Europe/Simferopol -- verdict : PASS
+Time zone : Europe/Budapest -- verdict : PASS
+Time zone : Pacific/Apia -- verdict : PASS
+Time zone : America/Paramaribo -- verdict : PASS
+Time zone : Africa/Lagos -- verdict : FAIL ("Africa/Malabo")
+Time zone : Africa/Douala -- verdict : FAIL ("Africa/Ndjamena")
+Time zone : Asia/Choibalsan -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Antigua")
+Time zone : Europe/Istanbul -- verdict : PASS
+Time zone : Africa/Blantyre -- verdict : PASS
+Time zone : Australia/Sydney -- verdict : PASS
+Time zone : Asia/Dushanbe -- verdict : PASS
+Time zone : Europe/Belgrade -- verdict : PASS
+Time zone : Asia/Karachi -- verdict : PASS
+Time zone : Europe/Luxembourg -- verdict : PASS
+Time zone : Europe/Podgorica -- verdict : PASS
+Time zone : Australia/Brisbane -- verdict : FAIL ("Australia/Lindeman")
+Time zone : Africa/Bangui -- verdict : PASS
+Time zone : Asia/Aden -- verdict : PASS
+Time zone : unknown -- verdict : FAIL ("Pacific/Chuuk")
+Time zone : Asia/Brunei -- verdict : PASS
+Time zone : America/Argentina/Cordoba -- verdict : FAIL ("America/Asuncion")
+Time zone : Europe/Prague -- verdict : PASS
+Time zone : America/Los_Angeles -- verdict : FAIL ("America/Cayman")
+Time zone : unknown -- verdict : FAIL ("Pacific/Pohnpei")
+Time zone : America/Atikokan -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("Pacific/Norfolk")
+Time zone : Africa/Dakar -- verdict : PASS
+Time zone : America/Argentina/Buenos_Aires -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Edmonton")
+Time zone : unknown -- verdict : FAIL ("America/Barbados")
+Time zone : America/Denver -- verdict : FAIL ("America/Santo_Domingo")
+Time zone : Asia/Bishkek -- verdict : PASS
+Time zone : Asia/Riyadh -- verdict : FAIL ("Asia/Kuwait")
+Time zone : Pacific/Noumea -- verdict : FAIL ("Pacific/Efate")
+Time zone : Indian/Mauritius -- verdict : PASS
+Time zone : America/Aruba -- verdict : PASS
+Time zone : Australia/Brisbane -- verdict : PASS
+Time zone : Indian/Kerguelen -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("America/Toronto")
+Time zone : Asia/Qyzylorda -- verdict : PASS
+Time zone : Asia/Aqtobe -- verdict : PASS
+Time zone : America/Eirunepe -- verdict : PASS
+Time zone : Europe/London -- verdict : FAIL ("Europe/Isle_of_Man")
+Time zone : Pacific/Honolulu -- verdict : PASS
+Time zone : America/Montevideo -- verdict : PASS
+Time zone : Asia/Tashkent -- verdict : PASS
+Time zone : Australia/Brisbane -- verdict : FAIL ("Pacific/Kosrae")
+Time zone : America/Chicago -- verdict : FAIL ("America/Indiana/Winamac")
+Time zone : America/Argentina/La_Rioja -- verdict : PASS
+Time zone : Africa/Mogadishu -- verdict : PASS
+Time zone : Asia/Phnom_Penh -- verdict : PASS
+Time zone : Africa/Dakar -- verdict : FAIL ("Africa/Banjul")
+Time zone : America/Chicago -- verdict : FAIL ("America/Creston")
+Time zone : Europe/Brussels -- verdict : PASS
+Time zone : Africa/Cairo -- verdict : FAIL ("Asia/Gaza")
+Time zone : America/New_York -- verdict : FAIL ("Atlantic/Bermuda")
+Time zone : America/Chicago -- verdict : FAIL ("America/Indiana/Knox")
+Time zone : America/Bahia -- verdict : FAIL ("America/El_Salvador")
+Time zone : America/Argentina/Buenos_Aires -- verdict : FAIL ("America/Managua")
+Time zone : Africa/Niamey -- verdict : PASS
+Time zone : Europe/Paris -- verdict : FAIL ("Europe/Monaco")
+Time zone : Africa/Ouagadougou -- verdict : PASS
+Time zone : Australia/Brisbane -- verdict : FAIL ("Pacific/Easter")
+Time zone : America/New_York -- verdict : FAIL ("Atlantic/Canary")
+Time zone : Asia/Bangkok -- verdict : FAIL ("Asia/Vientiane")
+Time zone : Europe/Bucharest -- verdict : PASS
+Time zone : Africa/Lusaka -- verdict : PASS
+Time zone : Asia/Kathmandu -- verdict : PASS
+Time zone : Africa/Harare -- verdict : PASS
+Time zone : Asia/Bangkok -- verdict : PASS
+Time zone : Europe/Rome -- verdict : PASS
+Time zone : Africa/Accra -- verdict : FAIL ("Africa/Lome")
+Time zone : America/Denver -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("Indian/Reunion")
+Time zone : Europe/Kiev -- verdict : PASS
+Time zone : Europe/Vienna -- verdict : PASS
+Time zone : America/Martinique -- verdict : FAIL ("America/Guadeloupe")
+Time zone : America/Argentina/Cordoba -- verdict : PASS
+Time zone : Asia/Manila -- verdict : PASS
+Time zone : Asia/Tokyo -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("America/Nassau")
+Time zone : Australia/Brisbane -- verdict : FAIL ("Pacific/Enderbury")
+Time zone : America/Winnipeg -- verdict : PASS
+Time zone : Europe/Dublin -- verdict : PASS
+Time zone : Asia/Kuching -- verdict : PASS
+Time zone : America/Santiago -- verdict : FAIL ("America/Argentina/Ushuaia")
+Time zone : Asia/Colombo -- verdict : PASS
+Time zone : Asia/Krasnoyarsk -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("America/St_Johns")
+Time zone : Asia/Shanghai -- verdict : PASS
+Time zone : America/Tijuana -- verdict : FAIL ("Pacific/Kwajalein")
+Time zone : Africa/Kigali -- verdict : PASS
+Time zone : Europe/Chisinau -- verdict : PASS
+Time zone : America/Sao_Paulo -- verdict : FAIL ("America/Noronha")
+Time zone : Europe/Paris -- verdict : FAIL ("Europe/Guernsey")
+Time zone : Europe/Paris -- verdict : PASS
+Time zone : America/Guyana -- verdict : PASS
+Time zone : Africa/Luanda -- verdict : PASS
+Time zone : Africa/Abidjan -- verdict : PASS
+Time zone : America/Tijuana -- verdict : FAIL ("America/Tortola")
+Time zone : Europe/Rome -- verdict : FAIL ("Europe/Malta")
+Time zone : Europe/London -- verdict : PASS
+Time zone : America/Tijuana -- verdict : FAIL ("Pacific/Guadalcanal")
+Time zone : Australia/Brisbane -- verdict : FAIL ("Pacific/Gambier")
+Time zone : America/Chicago -- verdict : FAIL ("America/Thule")
+Time zone : America/Denver -- verdict : FAIL ("America/Regina")
+Time zone : America/Chicago -- verdict : FAIL ("America/Indiana/Vincennes")
+Time zone : America/Santarem -- verdict : PASS
+Time zone : Africa/Djibouti -- verdict : PASS
+Time zone : America/Los_Angeles -- verdict : FAIL ("Pacific/Tahiti")
+Time zone : Europe/Rome -- verdict : FAIL ("Europe/San_Marino")
+Time zone : America/Argentina/San_Luis -- verdict : PASS
+Time zone : Africa/Casablanca -- verdict : FAIL ("Africa/Ceuta")
+Time zone : Asia/Jakarta -- verdict : FAIL ("Asia/Singapore")
+Time zone : America/Campo_Grande -- verdict : PASS
+Time zone : Africa/Tunis -- verdict : PASS
+Time zone : Europe/Copenhagen -- verdict : PASS
+Time zone : Asia/Pontianak -- verdict : PASS
+Time zone : Asia/Dubai -- verdict : PASS
+Time zone : Africa/Khartoum -- verdict : PASS
+Time zone : Europe/Helsinki -- verdict : PASS
+Time zone : America/Whitehorse -- verdict : PASS
+Time zone : America/Maceio -- verdict : PASS
+Time zone : Africa/Douala -- verdict : PASS
+Time zone : Asia/Kuala_Lumpur -- verdict : PASS
+Time zone : America/Martinique -- verdict : PASS
+Time zone : America/Sao_Paulo -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Dawson")
+Time zone : Africa/Brazzaville -- verdict : FAIL ("Africa/Kinshasa")
+Time zone : Europe/Riga -- verdict : PASS
+Time zone : Africa/Tripoli -- verdict : PASS
+Time zone : Europe/Madrid -- verdict : PASS
+Time zone : America/Toronto -- verdict : FAIL ("America/Nipigon")
+Time zone : Pacific/Apia -- verdict : FAIL ("Pacific/Fakaofo")
+Time zone : Europe/Skopje -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("America/St_Thomas")
+Time zone : Africa/Johannesburg -- verdict : FAIL ("Africa/Maseru")
+Time zone : Europe/Sofia -- verdict : PASS
+Time zone : America/Porto_Velho -- verdict : PASS
+Time zone : America/Tijuana -- verdict : FAIL ("America/St_Kitts")
+Time zone : Africa/Casablanca -- verdict : PASS
+Time zone : Asia/Hebron -- verdict : PASS
+Time zone : Asia/Dili -- verdict : PASS
+Time zone : America/Argentina/San_Juan -- verdict : PASS
+Time zone : Asia/Almaty -- verdict : PASS
+Time zone : Europe/Sarajevo -- verdict : PASS
+Time zone : America/Boa_Vista -- verdict : PASS
+Time zone : Africa/Addis_Ababa -- verdict : PASS
+Time zone : Africa/Lusaka -- verdict : FAIL ("Africa/Lubumbashi")
+Time zone : America/Toronto -- verdict : FAIL ("America/Lower_Princes")
+Time zone : Europe/Oslo -- verdict : PASS
+Time zone : unknown -- verdict : FAIL ("Africa/Monrovia")
+Time zone : Asia/Muscat -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Thunder_Bay")
+Time zone : America/Juneau -- verdict : PASS
+Time zone : Australia/Brisbane -- verdict : FAIL ("Pacific/Rarotonga")
+Time zone : America/Cayenne -- verdict : PASS
+Time zone : America/Cuiaba -- verdict : PASS
+Time zone : Africa/Maputo -- verdict : PASS
+Time zone : Asia/Anadyr -- verdict : PASS
+Time zone : Asia/Kabul -- verdict : PASS
+Time zone : America/Santiago -- verdict : FAIL ("America/Santa_Isabel")
+Time zone : Asia/Damascus -- verdict : PASS
+Time zone : Pacific/Noumea -- verdict : PASS
+Time zone : America/Anchorage -- verdict : PASS
+Time zone : Asia/Kolkata -- verdict : PASS
+Time zone : Pacific/Apia -- verdict : FAIL ("Pacific/Niue")
+Time zone : Asia/Kamchatka -- verdict : PASS
+Time zone : America/Monterrey -- verdict : FAIL ("America/Matamoros")
+Time zone : Europe/Stockholm -- verdict : PASS
+Time zone : America/New_York -- verdict : FAIL ("America/Havana")
+Time zone : Pacific/Auckland -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Rainy_River")
+Time zone : Asia/Omsk -- verdict : PASS
+Time zone : Africa/Algiers -- verdict : PASS
+Time zone : America/Guayaquil -- verdict : PASS
+Time zone : Asia/Kolkata -- verdict : FAIL ("Indian/Maldives")
+Time zone : Asia/Makassar -- verdict : PASS
+Time zone : America/Los_Angeles -- verdict : FAIL ("America/Monterrey")
+Time zone : Europe/Amsterdam -- verdict : PASS
+Time zone : America/St_Lucia -- verdict : PASS
+Time zone : Europe/Bratislava -- verdict : FAIL ("Europe/Uzhgorod")
+Time zone : America/Chicago -- verdict : FAIL ("America/Indiana/Marengo")
+Time zone : Australia/Brisbane -- verdict : FAIL ("Pacific/Saipan")
+Time zone : America/Bogota -- verdict : PASS
+Time zone : America/Kentucky/Louisville -- verdict : FAIL ("America/Indiana/Vevay")
+Time zone : America/Argentina/Cordoba -- verdict : FAIL ("America/Guatemala")
+Time zone : America/Puerto_Rico -- verdict : PASS
+Time zone : unknown -- verdict : FAIL ("America/Marigot")
+Time zone : Africa/Juba -- verdict : PASS
+Time zone : America/Costa_Rica -- verdict : PASS
+Time zone : America/Caracas -- verdict : PASS
+Time zone : Australia/Brisbane -- verdict : FAIL ("Pacific/Nauru")
+Time zone : Europe/Minsk -- verdict : PASS
+Time zone : America/Belem -- verdict : PASS
+Time zone : America/Chicago -- verdict : FAIL ("America/Cancun")
+Time zone : America/Los_Angeles -- verdict : FAIL ("America/Hermosillo")
+Time zone : Asia/Chongqing -- verdict : PASS
+Time zone : Asia/Beirut -- verdict : PASS
+Time zone : Europe/Madrid -- verdict : FAIL ("Europe/Gibraltar")
+Time zone : Asia/Urumqi -- verdict : PASS
+Time zone : America/Los_Angeles -- verdict : FAIL ("America/Mazatlan")
